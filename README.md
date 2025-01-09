@@ -4,6 +4,9 @@
 > Aviso: Aconselho usar Auto-Inject pois a verificação do Modo Debug acontece desde do DllMain do propio SA:MP.
 
 ---
+> [!CAUTION]
+> Esses comandos serão liberados através de um ByPass, ou seja "método utilizado por jogadores para contornar restrições ou sistemas de detecção de cheats", não me responsabilizo por nenhuma merda que você vai fazer com isso, deixei os avisos e as documentações tanto do codigo quanto dos meus testes em base dos comandos, obviamente você pode ter o risco de ser banido de algum servidor se ficar usando que nem um louco. Espero que consigam fazer algo mais divertido com esses codigos!
+---
 
 # 
 ![a](https://github.com/tisiohw/samp-bypass-debug/blob/main/code_ida.png)
